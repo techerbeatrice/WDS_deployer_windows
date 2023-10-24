@@ -45,24 +45,17 @@ _____
 
 **Choix du 2ème disque dur**      
 
-![image](https://github.com/techerbeatrice/WDS_deployer_windows/assets/138071140/929640a9-aeb5-4fd1-b8bf-6a9cec64e534)
+![image](https://github.com/techerbeatrice/WDS_deployer_windows/assets/138071140/882fb799-ca99-4093-a58a-7ede8ee3c612)
 
-
-
-
-
+![image](https://github.com/techerbeatrice/WDS_deployer_windows/assets/138071140/6a313ba8-778e-4e60-bcbc-406ab4da0688)
 
 ____
 
+🔬 **Lancement du service WDS** 
 
-![image](https://github.com/techerbeatrice/WDS_deployer_windows/assets/138071140/52ec2b22-10f4-4703-85af-937801d63a16)
+![image](https://github.com/techerbeatrice/WDS_deployer_windows/assets/138071140/af883ab9-ad28-4937-9c5f-cd9e120119b2)
 
-___
+![image](https://github.com/techerbeatrice/WDS_deployer_windows/assets/138071140/4e668673-f5cf-41b3-a646-6f5a2c12e3f1)
 
-Pour cela, il faut :  
 
-Une image de démarrage  
-Une image d'installation  
-
-___
 
