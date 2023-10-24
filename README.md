@@ -5,19 +5,19 @@ ____
 **Etape 1 - Installer le rôle WDS**     
 
 🔧 **Prérequis**  
-Tu as besoin d'une VM Microsoft Windows Server (en version au moins 2008) :
+Tu as besoin d'une VM Microsoft Windows Server (en version au moins 2008) :   
 
-Adresse IP fixe du serveur : **192.168.10.2/24**
+Adresse IP fixe du serveur : **192.168.10.2/24**  
 Nom du serveur : **srv-wds**  
-Ce serveur est installé avec le rôle DHCP dans la configuration suivante :
+Ce serveur est installé avec le rôle DHCP dans la configuration suivante :  
 
 Début de plage d'adresses : **192.168.10.10**  
 Fin de plage d'adresses : **192.168.10.100**  
 Masque : **/24**  
 Ce serveur dispose de **2 disques** configurés comme ceci :  
 
-Disque système : **30 GO**
-Disque WDS :   
+Disque système : **30 GO**   
+Disque WDS :     
 Taille de volume : **30 Go**  
 Partition de type : **GPT**  
 File system : **NTFS**  
@@ -25,7 +25,8 @@ Nom : **WDS**
 
 ![image](https://github.com/techerbeatrice/WDS_deployer_windows/assets/138071140/be0fbc90-6056-4500-a5ae-daff0a89b6bc)
 ![image](https://github.com/techerbeatrice/WDS_deployer_windows/assets/138071140/a7e9d504-8f7f-4ab4-be1c-43e385ef309f)
-![image](https://github.com/techerbeatrice/WDS_deployer_windows/assets/138071140/34fa7006-495e-4ff3-96e3-f51b5e5a0752)
+![image](https://github.com/techerbeatrice/WDS_deployer_windows/assets/138071140/ed5ac58b-17d3-49d0-9746-b41dfc6108c9)
+
 
 
 ___
