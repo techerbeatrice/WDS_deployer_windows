@@ -23,6 +23,13 @@ Partition de type : **GPT**
 File system : **NTFS**  
 Nom : **WDS**  
 
+![image](https://github.com/techerbeatrice/WDS_deployer_windows/assets/138071140/be0fbc90-6056-4500-a5ae-daff0a89b6bc)
+![image](https://github.com/techerbeatrice/WDS_deployer_windows/assets/138071140/a7e9d504-8f7f-4ab4-be1c-43e385ef309f)
+![image](https://github.com/techerbeatrice/WDS_deployer_windows/assets/138071140/55df08d0-9eae-4f5e-847a-dac1fa33ccd1)
+
+
+___
+
 
 🔬 Installation du rôle  
 
